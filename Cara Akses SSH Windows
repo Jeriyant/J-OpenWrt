@@ -1,0 +1,14 @@
+1. Silakan Buka CMD.
+
+2 . Lalu ketik perintah berikut.
+
+ssh  root@ip -p 2219
+
+Misalkan ip yang akan anda remote adalah 192.168.1.1
+
+ssh  root@192.168.1.1 -p 2219 , lalu masukan password root anda.
+
+3. Dengan begitu anda sudah berhasil login .
+
+Note:
+-P adalah Port yang digunakan dengan nomer portnya 2219
